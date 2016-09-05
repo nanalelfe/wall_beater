@@ -12,6 +12,8 @@ There are in total six rows of bricks, each row being a different color. If the
      of bricks and a paddle located at the bottom of the screen. If the player fails
       to bounce the ball using the paddle, he/she loses the game.
 
+## Installation
+(under construction)
 
 ## Built With
 * Verilog
