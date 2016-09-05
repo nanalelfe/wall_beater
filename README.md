@@ -1,4 +1,4 @@
-# Wall Beater
+# Wall-Beater
 Based on the Atari game "Breakout", where the player's goal is to break down as many of the displayed bricks as possible using a single ball.
 
 ## Description
