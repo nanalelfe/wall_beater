@@ -13,3 +13,9 @@ There are in total six rows of bricks, each row being a different color. If the
       to bounce the ball using the paddle, he/she loses the game.
 
 
+## Built With
+* Verilog
+
+## Authors
+* Nana Nosirova
+* Humair Khan
