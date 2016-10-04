@@ -33,7 +33,8 @@ There are in total six rows of bricks, each row being a different color. If the
   * The VGA display should now display the game. 
 
 ###Controls
-[To be added]
+  * Paddle control : KEY[1:0]
+  * Reset State : KEY[2]
 
 ## Built With
 * Verilog
